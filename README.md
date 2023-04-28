@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Installation](#installation)
-* [Description](#usage)
+* [Description](#description)
 * [Gif](#gif)
 * [links](#links)
 
@@ -26,3 +26,4 @@ This app takes an existing text editor application and adds functionality to it 
 https://github.com/siddz415/Text-editor-PWA
 
 # Heroku
+https://another-texteditor.herokuapp.com/
